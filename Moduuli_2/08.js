@@ -10,5 +10,4 @@ function concat(array) {
 
 const names = ['Johnny', 'DeeDee', 'Joey', 'Marky']
 
-
 document.querySelector('#target').innerHTML = concat(names);
